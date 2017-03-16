@@ -30,16 +30,17 @@ Conceitos básicos de circuitos eletrônicos, com ênfase na utilização de com
  
 
 Avaliação
- 
      	Método
      	Exposição seguida de exercícios e trabalhos práticos, dentro e fora de classe.
  
      	Critério
-     	Teremos dois trabalhos T1 e T2 e a nota final será a média aritmética entre eles: NF = (T1 + T2 )/2, sendo que é necessário obter nota superior a CINCO em ambos os trabalhos.
+     	Teremos dois trabalhos T1 e T2 e a nota final será a média aritmética entre eles: NF = (T1 + T2 )/2, 
+      sendo que é necessário obter nota superior a CINCO em ambos os trabalhos.
  
      	Norma de Recuperação
-     	Critério de Aprovação: NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec <= 5,0;
-ou 5,0, se 5,0 <= Mrec < 7,5.( NP=1ª avaliação, Mrec=prova recuperação).
+     	Critério de Aprovação: 
+      NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec <= 5,0;
+      ou 5,0, se 5,0 <= Mrec < 7,5.( NP=1ª avaliação, Mrec=prova recuperação).
  
 
 Bibliografia

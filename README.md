@@ -17,6 +17,9 @@ Créditos Aula: 	2
 Créditos Trabalho: 	2
 Tipo: 	Semestral
 
+# Email do Monitor:
+Matheus Carvalho - mcarvalhor@usp.br 
+
 Video-aulas:
 
 Screan Captured: https://www.youtube.com/watch?v=qb6fcfDH5Qk&t=2s
@@ -25,7 +28,7 @@ Screan Captured: https://www.youtube.com/watch?v=vQig6pRj4C4
 
 Aula Tutorial EAGLE Parte 1: https://www.youtube.com/watch?v=jCn-QlsnRMU
 
-Aula Tutorial EAGLE Parte 1: https://www.youtube.com/watch?v=TP7zXqjaEfo
+Aula Tutorial EAGLE Parte 2: https://www.youtube.com/watch?v=TP7zXqjaEfo
 
 
 

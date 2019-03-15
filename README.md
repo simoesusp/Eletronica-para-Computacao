@@ -33,6 +33,7 @@ Aula Tutorial EAGLE Parte 2: https://www.youtube.com/watch?v=TP7zXqjaEfo
 
 http://tinyurl.com/y5shkxya
 
+http://tinyurl.com/y54erfhv
 
 
 # Objetivos:

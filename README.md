@@ -19,7 +19,7 @@ Tipo: 	Semestral
 
 
 
-Video-aulas:
+# Video-aulas:
 
 Screan Captured: https://www.youtube.com/watch?v=qb6fcfDH5Qk&t=2s
 
@@ -35,7 +35,8 @@ http://tinyurl.com/y5shkxya
 
 
 
-Objetivos
+# Objetivos:
+
 Familiarizar os alunos com o funcionamento eletrônico das portas e lógicas com conceitos relacionados a dispositivos eletrônicos.
  
 Programa Resumido

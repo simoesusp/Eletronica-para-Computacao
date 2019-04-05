@@ -39,6 +39,14 @@ http://tinyurl.com/y2mxmgwj
 
 http://tinyurl.com/y6le5sgn
 
+Porta NOT (nMOS e CMOS) http://tinyurl.com/y5shkxya
+
+Cadeia NOT ERRADA (NPN)! http://tinyurl.com/y2mxmgwj
+
+Cadeia NOT ERRADA!(nMOS) http://tinyurl.com/y6le5sgn
+
+Fonte1 (Trafo-diodos-capacitor-led) http://tinyurl.com/y5793zjk
+
 
 # Objetivos:
 

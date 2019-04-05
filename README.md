@@ -31,14 +31,6 @@ Aula Tutorial EAGLE Parte 2: https://www.youtube.com/watch?v=TP7zXqjaEfo
 
 # Circuitos:
 
-http://tinyurl.com/y5shkxya
-
-http://tinyurl.com/y54erfhv
-
-http://tinyurl.com/y2mxmgwj
-
-http://tinyurl.com/y6le5sgn
-
 Porta NOT (nMOS e CMOS) http://tinyurl.com/y5shkxya
 
 Cadeia NOT ERRADA (NPN)! http://tinyurl.com/y2mxmgwj

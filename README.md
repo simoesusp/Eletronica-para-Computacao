@@ -29,6 +29,13 @@ Aula Tutorial EAGLE Parte 1: https://www.youtube.com/watch?v=jCn-QlsnRMU
 
 Aula Tutorial EAGLE Parte 2: https://www.youtube.com/watch?v=TP7zXqjaEfo
 
+# Não Faça em Casa
+
+ - https://www.youtube.com/watch?v=slhocFSAoQE
+ - https://www.youtube.com/watch?v=jBwodg8sfdU
+ - https://www.youtube.com/watch?v=jUE1IHN6OI8
+ - https://www.youtube.com/watch?v=yCwmYfkTInY
+
 # Circuitos:
 
 Porta NOT (nMOS e CMOS) http://tinyurl.com/y5shkxya

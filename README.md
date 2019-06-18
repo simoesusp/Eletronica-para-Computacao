@@ -23,6 +23,8 @@ Tipo: 	Semestral
 
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller
+- Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
+https://github.com/lincolncpp/senha-controle-remoto
 
 
 

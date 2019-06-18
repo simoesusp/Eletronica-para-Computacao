@@ -19,6 +19,8 @@ Tipo: 	Semestral
 
 # Projeto Alunos 2019
 
+- Incluir no seu GIT: Software; Circuito com TODAS as conexoes com o Arduino; Fotos do circuito TOP VIEW; E um video mostrando o Projeto funcionando e explicando como construiu (Upa no Youtube e poe um link no teu Github). Dai' Forca a pagina da disciplina no teu git, edita o READ.ME e Comita. Depois faz um Pull Request No git original. Veja o video: 
+
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller
 

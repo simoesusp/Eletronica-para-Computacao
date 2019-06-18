@@ -17,6 +17,13 @@ Créditos Aula: 	2
 Créditos Trabalho: 	2
 Tipo: 	Semestral
 
+# Projeto Alunos 2019
+
+- Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
+https://github.com/LucasGab/Led-Controller
+
+
+
 
 
 # Video-aulas:

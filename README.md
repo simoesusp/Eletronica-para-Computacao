@@ -27,6 +27,8 @@ Tipo: 	Semestral
 https://github.com/LucasGab/Led-Controller
 - Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
 https://github.com/lincolncpp/senha-controle-remoto
+- [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
+https://github.com/gsasouza/house-automation
 
 
 

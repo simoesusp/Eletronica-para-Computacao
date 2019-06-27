@@ -29,7 +29,8 @@ https://github.com/LucasGab/Led-Controller
 https://github.com/lincolncpp/senha-controle-remoto
 - [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
 https://github.com/gsasouza/house-automation
-
+- Jogo da Velha (Thiago Sena, Victor Oliveira)
+https://github.com/Thiago-SDQ/jogo_da_velha
 
 
 

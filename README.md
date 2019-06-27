@@ -29,7 +29,8 @@ https://github.com/LucasGab/Led-Controller
 https://github.com/lincolncpp/senha-controle-remoto
 - [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
 https://github.com/gsasouza/house-automation
-
+- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):<br/>
+https://github.com/Haltz01/Arduino_Genius
 
 
 

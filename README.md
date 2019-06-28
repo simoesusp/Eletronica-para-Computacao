@@ -27,8 +27,10 @@ Tipo: 	Semestral
 https://github.com/LucasGab/Led-Controller
 - Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
 https://github.com/lincolncpp/senha-controle-remoto
-- [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
+- [Automação Residencial (Gabriel Souza, Rafael Tavares)] (https://github.com/gsasouza/house-automation) 
 https://github.com/gsasouza/house-automation
+- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):<br/>
+https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
 

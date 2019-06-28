@@ -29,8 +29,7 @@ https://github.com/LucasGab/Led-Controller
 https://github.com/lincolncpp/senha-controle-remoto
 - [Automação Residencial (Gabriel Souza, Rafael Tavares)](https://github.com/gsasouza/house-automation) <br />
 https://github.com/gsasouza/house-automation
-
--Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
+- Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
 
 

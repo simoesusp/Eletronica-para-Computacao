@@ -35,6 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)
+https://github.com/natanbc/stm32_usb_scope
 - Insira seu projeto AQUI!
 
 

@@ -23,7 +23,7 @@ Tipo: 	Semestral
 
 [![FELIZ WAS HERE](http://img.youtube.com/vi/0vT8zuG9CYM/0.jpg)](http://www.youtube.com/watch?v=0vT8zuG9CYM)
 
--Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
+- Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
 https://github.com/vrrusso/dado-inator
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller

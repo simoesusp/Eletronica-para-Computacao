@@ -35,6 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+-Leitor de Morse por luz(Anderson Cardoso, Bruna Garcia, Hellen Rosa e Mateus de Souza)
+https://github.com/OhMySt4rs/LeitordeMorse
 - Insira seu projeto AQUI!
 
 

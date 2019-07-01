@@ -35,7 +35,9 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
-- Insira seu projeto AQUI!
+- Tradutor para Código Morse(Daniel Vieira, Vinícius Kuhlmann, Luis Rodrigues)  
+https://github.com/Idalen/Arduino_Morse_Translator  
+- Insira teu projeto aqui!
 
 
 

@@ -35,6 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Genius Game With Sensor (Gabriel Rossati, Nathan Rodrigues e Yure Pablo):
+https://github.com/yp1plus/geniusWithSensor_game
 - Insira seu projeto AQUI!
 
 

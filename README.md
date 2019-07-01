@@ -35,6 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Simon42-Game (Bruna Magrini, Gustavo Akira, Marlon Martins, Wellington Amaral)
+https://github.com/mjmartins11/projectsimon42
 - Insira seu projeto AQUI!
 
 

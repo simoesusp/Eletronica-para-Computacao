@@ -35,7 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
-- Insira seu projeto AQUI!
+- Medidor de Temperatura e Umidade (César Guibo, Leonardo Rebelo, Ricardo Nascimento)
+https://github.com/Rebelo/medidor_temp_umidade
 
 
 

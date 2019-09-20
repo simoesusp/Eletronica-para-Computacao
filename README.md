@@ -32,10 +32,12 @@ https://github.com/lincolncpp/senha-controle-remoto
 https://github.com/gsasouza/house-automation
 - Jogo da Velha (Thiago Sena, Victor Oliveira)
 https://github.com/Thiago-SDQ/jogo_da_velha
-- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):<br/>
+- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Sensor de temperatura (Gabriel Nicolau, Daniel Froes, Guilherme, Mateus Bragança) 
+https://github.com/7Nic/Sensor-de-temperatura
 - Robô Omnidirecional (Lucas Romera, Maria Eduarda Kawakami, Otto Fernandes)
 https://github.com/ottusp/Eletronica_Arduino
 - Medidor de Temperatura e Umidade (César Guibo, Leonardo Rebelo, Ricardo Nascimento)

@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Tradutor para Código Morse(Daniel Vieira, Vinícius Kuhlmann, Luis Rodrigues)  
+https://github.com/Idalen/Arduino_Morse_Translator  
 - Termômetro Digital (Eduardo Souza Rocha, Fabio Dias da Cunha)<br/>
 https://github.com/Edwolt/Termometro-Arduino/
 - Detector de Porta Aberta (Fernando Cincinato, Olavo Morais)

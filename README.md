@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Robô Omnidirecional (Lucas Romera, Maria Eduarda Kawakami, Otto Fernandes)
+https://github.com/ottusp/Eletronica_Arduino
 - Medidor de Temperatura e Umidade (César Guibo, Leonardo Rebelo, Ricardo Nascimento)
 https://github.com/Rebelo/medidor_temp_umidade
 - Xiloino: um instrumento musical (Paulo José, Jonathan Sanchez, Augusto de Elet)

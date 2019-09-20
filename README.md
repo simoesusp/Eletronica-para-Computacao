@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Arduino controlado por Node.js (Leonardo Antonetti, Diogo Emídio, Jorge Augusto Salgado)
+https://github.com/l-a-motta/arduino-node
 - Fechadura Eletrica via WebServer (Joao Pedro Berno Zanutto)
 https://github.com/zanuttin/Fechadura-WebServer
 - Jogo de pong (Ana Clara Amorim, Kaio Tadeu Rodrigues)

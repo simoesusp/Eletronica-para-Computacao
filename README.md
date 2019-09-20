@@ -35,6 +35,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)
+https://github.com/marcuscastelo/arduino-transdimentional-maze
 - Piano de Bananas (Jose Daniel, Isadora Siebert, Erick Barcelos, Pablo Oliviera)
 https://github.com/pabloolvr/Piano-de-Bananas
 - Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)

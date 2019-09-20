@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Arduino Pong Game (Diany Pressato Larissa Freire Luana Terra do Couto Matheus Araujo Tyago Teoi)
+https://github.com/M-A-rs/Arduino-Pong-Game
 - Sistema de monitoramento de umidade do solo (André Vieira, Leandro Satoshi)
 https://github.com/LSatoshi/Soil_Moisture_Monitoring
 - Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)

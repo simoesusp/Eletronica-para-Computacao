@@ -35,7 +35,9 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 - Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):<br/>
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
-https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot<br/>
+https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Genius Game With Sensor (Gabriel Rossati, Nathan Rodrigues e Yure Pablo):
+https://github.com/yp1plus/geniusWithSensor_game
 - Piano Hero (Bruno Fernandes Moreira, Francisco Pedrosa, Savio Duarte Fontes e Thales Willian Dalvi da Silva)
 https:https://github.com/FranPedrosa/PianoHero<br/>
 - Arduino Robot Car (Luca Batista Barbosa e Mylena Vieira Pim)

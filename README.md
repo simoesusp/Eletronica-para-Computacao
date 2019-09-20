@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Sistema de monitoramento de umidade do solo (André Vieira, Leandro Satoshi)
+https://github.com/LSatoshi/Soil_Moisture_Monitoring
 - Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
 https://github.com/vrrusso/dado-inator
 - Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)

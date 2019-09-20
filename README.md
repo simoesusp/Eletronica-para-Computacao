@@ -38,10 +38,16 @@ https://github.com/Haltz01/Arduino_Genius
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
 - Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
 https://github.com/vrrusso/dado-inator
+- Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)
+https://github.com/marcuscastelo/arduino-transdimentional-maze
+- Piano de Bananas (Jose Daniel, Isadora Siebert, Erick Barcelos, Pablo Oliviera)
+https://github.com/pabloolvr/Piano-de-Bananas
+- Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)
+https://github.com/natanbc/stm32_usb_scope
+- Medidor de Pulso (Caio Marcos Chaves Viana; Lucas Carvalho Machado; Lucas Yuiti Oda Yamamoto; Gabriel de Oliveira Guedes Nogueira; Victor Gomes de Carvalho)
+https://github.com/Talendar/arduino_pulse_monitor/blob/master/README.md
+
 - Insira seu projeto AQUI!
-
-
-
 
 # Video-aulas:
 

@@ -23,6 +23,7 @@ Tipo: 	Semestral
 
 [![FELIZ WAS HERE](http://img.youtube.com/vi/0vT8zuG9CYM/0.jpg)](http://www.youtube.com/watch?v=0vT8zuG9CYM)
 
+
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller
 - Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
@@ -37,10 +38,18 @@ https://github.com/Haltz01/Arduino_Genius
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
 - Sistema de monitoramento de umidade do solo (André Vieira, Leandro Satoshi)
 https://github.com/LSatoshi/Soil_Moisture_Monitoring
+- Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
+https://github.com/vrrusso/dado-inator
+- Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)
+https://github.com/marcuscastelo/arduino-transdimentional-maze
+- Piano de Bananas (Jose Daniel, Isadora Siebert, Erick Barcelos, Pablo Oliviera)
+https://github.com/pabloolvr/Piano-de-Bananas
+- Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)
+https://github.com/natanbc/stm32_usb_scope
+- Medidor de Pulso (Caio Marcos Chaves Viana; Lucas Carvalho Machado; Lucas Yuiti Oda Yamamoto; Gabriel de Oliveira Guedes Nogueira; Victor Gomes de Carvalho)
+https://github.com/Talendar/arduino_pulse_monitor/blob/master/README.md
+
 - Insira seu projeto AQUI!
-
-
-
 
 # Video-aulas:
 

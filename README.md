@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- 2D Penter - Impressora 2d para plotar gráficos (Breno Cunha Queiroz, Dikson Ferreira)
+https://github.com/Brenocq/2DPenter
 - Bomberman (André Santana, Gabriel Ferracioli, Kevin Naoto) 
 https://github.com/AndreSFND/Bomberman-Arduino
 - Arduino controlado por Node.js (Leonardo Antonetti, Diogo Emídio, Jorge Augusto Salgado)
@@ -88,8 +90,6 @@ https://github.com/pabloolvr/Piano-de-Bananas
 https://github.com/natanbc/stm32_usb_scope
 - Medidor de Pulso (Caio Marcos Chaves Viana; Lucas Carvalho Machado; Lucas Yuiti Oda Yamamoto; Gabriel de Oliveira Guedes Nogueira; Victor Gomes de Carvalho)
 https://github.com/Talendar/arduino_pulse_monitor/blob/master/README.md
-
-- Insira seu projeto AQUI!
 
 # Video-aulas:
 

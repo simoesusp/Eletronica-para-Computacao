@@ -23,6 +23,7 @@ Tipo: 	Semestral
 
 [![FELIZ WAS HERE](http://img.youtube.com/vi/0vT8zuG9CYM/0.jpg)](http://www.youtube.com/watch?v=0vT8zuG9CYM)
 
+
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller
 - Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
@@ -31,15 +32,64 @@ https://github.com/lincolncpp/senha-controle-remoto
 https://github.com/gsasouza/house-automation
 - Jogo da Velha (Thiago Sena, Victor Oliveira)
 https://github.com/Thiago-SDQ/jogo_da_velha
-- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):<br/>
+- Arduino Genius Game (Dennis Green, Pedro Cisdeli, Pedro Lourenço):
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
-- 2D Penter - Impressora 2d para plotar gráficos (Breno Cunha Queiroz, Dikson Ferreira): https://github.com/Brenocq/2DPenter
-- Insira seu projeto AQUI!
-
-
-
+- 2D Penter - Impressora 2d para plotar gráficos (Breno Cunha Queiroz, Dikson Ferreira)
+https://github.com/Brenocq/2DPenter
+- Bomberman (André Santana, Gabriel Ferracioli, Kevin Naoto) 
+https://github.com/AndreSFND/Bomberman-Arduino
+- Arduino controlado por Node.js (Leonardo Antonetti, Diogo Emídio, Jorge Augusto Salgado)
+https://github.com/l-a-motta/arduino-node
+- Fechadura Eletrica via WebServer (Joao Pedro Berno Zanutto)
+https://github.com/zanuttin/Fechadura-WebServer
+- Jogo de pong (Ana Clara Amorim, Kaio Tadeu Rodrigues)
+https://github.com/AnaClaraAmorim/eletronica-para-computacao
+- Sensor de temperatura (Gabriel Nicolau, Daniel Froes, Guilherme, Mateus Bragança) 
+https://github.com/7Nic/Sensor-de-temperatura
+- Robô Omnidirecional (Lucas Romera, Maria Eduarda Kawakami, Otto Fernandes)
+https://github.com/ottusp/Eletronica_Arduino
+- Medidor de Temperatura e Umidade (César Guibo, Leonardo Rebelo, Ricardo Nascimento)
+https://github.com/Rebelo/medidor_temp_umidade
+- Xiloino: um instrumento musical (Paulo José, Jonathan Sanchez, Augusto de Elet)
+https://gitlab.com/ImperfectFractal/xiloino
+-Leitor de Morse por luz(Anderson Cardoso, Bruna Garcia, Hellen Rosa e Mateus de Souza)
+https://github.com/OhMySt4rs/LeitordeMorse
+- Exibição de mensagem em matriz de leds 8x8 (Marcus Vinícius Medeiros Pará, Luca Machado Bottino)
+https://github.com/MarcusMedeiros99/max7219
+- Simon42-Game (Bruna Magrini, Gustavo Akira, Marlon Martins, Wellington Amaral)
+https://github.com/mjmartins11/projectsimon42
+- Tradutor de Codigo Morse (Luis Otavio M. Ferreira, Leonardo F. Pinheiro, Luca M. Alexander, Maria Fernanda L. de Mello)
+https://github.com/LuisOtavioMF/SCC0117-Trabalho2
+- Rolador de Dados, com Seleção de dados (Guilherme Hiromoto, João Victor de Araujo Lima, Murilo Franchi Paulo Matana da Rocha, Vinicius Shimizu)
+https://github.com/mrlFranchi/DiceRoller
+- Genius Game With Sensor (Gabriel Rossati, Nathan Rodrigues e Yure Pablo):
+https://github.com/yp1plus/geniusWithSensor_game
+- Piano Hero (Bruno Fernandes Moreira, Francisco Pedrosa, Savio Duarte Fontes e Thales Willian Dalvi da Silva)
+https:https://github.com/FranPedrosa/PianoHero<br/>
+- Arduino Robot Car (Luca Batista Barbosa e Mylena Vieira Pim)
+https://github.com/mylenapim/Arduino-Robot-Car
+- Tradutor para Código Morse(Daniel Vieira, Vinícius Kuhlmann, Luis Rodrigues)  
+https://github.com/Idalen/Arduino_Morse_Translator  
+- Termômetro Digital (Eduardo Souza Rocha, Fabio Dias da Cunha)<br/>
+https://github.com/Edwolt/Termometro-Arduino/
+- Detector de Porta Aberta (Fernando Cincinato, Olavo Morais)
+https://github.com/FernandoCincinato/Detector-de-porta-aberta-Arduino
+- Arduino Pong Game (Diany Pressato Larissa Freire Luana Terra do Couto Matheus Araujo Tyago Teoi)
+https://github.com/M-A-rs/Arduino-Pong-Game
+- Sistema de monitoramento de umidade do solo (André Vieira, Leandro Satoshi)
+https://github.com/LSatoshi/Soil_Moisture_Monitoring
+- Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
+https://github.com/vrrusso/dado-inator
+- Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)
+https://github.com/marcuscastelo/arduino-transdimentional-maze
+- Piano de Bananas (Jose Daniel, Isadora Siebert, Erick Barcelos, Pablo Oliviera)
+https://github.com/pabloolvr/Piano-de-Bananas
+- Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)
+https://github.com/natanbc/stm32_usb_scope
+- Medidor de Pulso (Caio Marcos Chaves Viana; Lucas Carvalho Machado; Lucas Yuiti Oda Yamamoto; Gabriel de Oliveira Guedes Nogueira; Victor Gomes de Carvalho)
+https://github.com/Talendar/arduino_pulse_monitor/blob/master/README.md
 
 # Video-aulas:
 

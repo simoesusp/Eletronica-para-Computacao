@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Exibição de mensagem em matriz de leds 8x8 (Marcus Vinícius Medeiros Pará, Luca Machado Bottino)
+https://github.com/MarcusMedeiros99/max7219
 - Simon42-Game (Bruna Magrini, Gustavo Akira, Marlon Martins, Wellington Amaral)
 https://github.com/mjmartins11/projectsimon42
 - Tradutor de Codigo Morse (Luis Otavio M. Ferreira, Leonardo F. Pinheiro, Luca M. Alexander, Maria Fernanda L. de Mello)

@@ -23,6 +23,7 @@ Tipo: 	Semestral
 
 [![FELIZ WAS HERE](http://img.youtube.com/vi/0vT8zuG9CYM/0.jpg)](http://www.youtube.com/watch?v=0vT8zuG9CYM)
 
+
 - Disco-Sound-Beat-Led-RGB (Lucas Gabriel, Mateus Penteado, Daniel Suzumura, Frederico Bulhoes)
 https://github.com/LucasGab/Led-Controller
 - Sistema de desbloqueio por senha (Fernando Lincoln, Victor Kendi, Leonardo Gabriel)
@@ -37,10 +38,34 @@ https://github.com/Haltz01/Arduino_Genius
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
 - Rolador de Dados, com Seleção de dados (Guilherme Hiromoto, João Victor de Araujo Lima, Murilo Franchi Paulo Matana da Rocha, Vinicius Shimizu)
 https://github.com/mrlFranchi/DiceRoller
+- Genius Game With Sensor (Gabriel Rossati, Nathan Rodrigues e Yure Pablo):
+https://github.com/yp1plus/geniusWithSensor_game
+- Piano Hero (Bruno Fernandes Moreira, Francisco Pedrosa, Savio Duarte Fontes e Thales Willian Dalvi da Silva)
+https:https://github.com/FranPedrosa/PianoHero<br/>
+- Arduino Robot Car (Luca Batista Barbosa e Mylena Vieira Pim)
+https://github.com/mylenapim/Arduino-Robot-Car
+- Tradutor para Código Morse(Daniel Vieira, Vinícius Kuhlmann, Luis Rodrigues)  
+https://github.com/Idalen/Arduino_Morse_Translator  
+- Termômetro Digital (Eduardo Souza Rocha, Fabio Dias da Cunha)<br/>
+https://github.com/Edwolt/Termometro-Arduino/
+- Detector de Porta Aberta (Fernando Cincinato, Olavo Morais)
+https://github.com/FernandoCincinato/Detector-de-porta-aberta-Arduino
+- Arduino Pong Game (Diany Pressato Larissa Freire Luana Terra do Couto Matheus Araujo Tyago Teoi)
+https://github.com/M-A-rs/Arduino-Pong-Game
+- Sistema de monitoramento de umidade do solo (André Vieira, Leandro Satoshi)
+https://github.com/LSatoshi/Soil_Moisture_Monitoring
+- Dado-inator(Bernardo Andrade,Filipe Oliveira,Victor Russo,Yasmin Araújo)
+https://github.com/vrrusso/dado-inator
+- Labirinto Transdimensional em primeira pessoa (Dalton Sato, Marcus Martins, Vinícius de Araújo, Vitor Amim)
+https://github.com/marcuscastelo/arduino-transdimentional-maze
+- Piano de Bananas (Jose Daniel, Isadora Siebert, Erick Barcelos, Pablo Oliviera)
+https://github.com/pabloolvr/Piano-de-Bananas
+- Osciloscópio USB (Henrique Libutti, Matheus Borella, Natan Cerdeira)
+https://github.com/natanbc/stm32_usb_scope
+- Medidor de Pulso (Caio Marcos Chaves Viana; Lucas Carvalho Machado; Lucas Yuiti Oda Yamamoto; Gabriel de Oliveira Guedes Nogueira; Victor Gomes de Carvalho)
+https://github.com/Talendar/arduino_pulse_monitor/blob/master/README.md
+
 - Insira seu projeto AQUI!
-
-
-
 
 # Video-aulas:
 

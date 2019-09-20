@@ -36,6 +36,8 @@ https://github.com/Thiago-SDQ/jogo_da_velha
 https://github.com/Haltz01/Arduino_Genius
 - Automação via Bot do Telegram (Gustavo Bartholomeu Trad Souza)
 https://github.com/gustavobartho/Automacao_Residencial_Telegram_Bot
+- Tradutor de Codigo Morse (Luis Otavio M. Ferreira, Leonardo F. Pinheiro, Luca M. Alexander, Maria Fernanda L. de Mello)
+https://github.com/LuisOtavioMF/SCC0117-Trabalho2
 - Rolador de Dados, com Seleção de dados (Guilherme Hiromoto, João Victor de Araujo Lima, Murilo Franchi Paulo Matana da Rocha, Vinicius Shimizu)
 https://github.com/mrlFranchi/DiceRoller
 - Genius Game With Sensor (Gabriel Rossati, Nathan Rodrigues e Yure Pablo):
